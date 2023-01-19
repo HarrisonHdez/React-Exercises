@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.contadorH1 {
+    font-size:100px;
+    
+}
+.contenedor {
+    text-align: center;
+}
+.contadorButton {
+    padding: 10px 20px;
+    font-size: 50px;
+}
