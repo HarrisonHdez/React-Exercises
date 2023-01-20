@@ -1,3 +1,6 @@
+//? EJERCICIO 4
+//* Crea un componente de reloj que utilice el hook "useEffect" para mostrar la hora actual cada segundo.
+
 import React, { useState, useEffect } from 'react';
 export const RelojApp = () => {
     const [time, setTime] = useState(new Date().toLocaleTimeString());
